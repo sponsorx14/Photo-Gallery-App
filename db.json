@@ -1,9 +1,8 @@
 {
   "photos": [
     {
-      "title": "Goku",
+      "title": "Best Goku",
       "url": "https://pbs.twimg.com/media/Dcy789zVwAIfjw7.jpg",
-      "errors": {},
       "id": 1
     },
     {
@@ -16,6 +15,18 @@
       "url": "https://pre00.deviantart.net/ed0c/th/pre/f/2017/129/a/0/jiren_the_gray_by_zika_arts-daytig0.png",
       "errors": {},
       "id": 3
+    },
+    {
+      "title": "Kurillin",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThMMR31Rr4z3S2f92OqNDNe-sdKl5pZ2O90Lj2kLSLBVKFEJBf",
+      "errors": {},
+      "id": 4
+    },
+    {
+      "title": "Fireza",
+      "url": "https://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/t/5a0d9ae171c10be9f57008f1/1510841062936/?format=750w",
+      "errors": {},
+      "id": 5
     }
   ]
 }
