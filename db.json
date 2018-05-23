@@ -1,0 +1,21 @@
+{
+  "photos": [
+    {
+      "title": "Goku",
+      "url": "https://pbs.twimg.com/media/Dcy789zVwAIfjw7.jpg",
+      "errors": {},
+      "id": 1
+    },
+    {
+      "title": "Vegeta",
+      "url": "https://vignette.wikia.nocookie.net/dragonball/images/9/99/1_Vegeta_-_Most_Powerful.png/revision/latest?cb=20090722095026",
+      "id": 2
+    },
+    {
+      "title": "Jiren",
+      "url": "https://pre00.deviantart.net/ed0c/th/pre/f/2017/129/a/0/jiren_the_gray_by_zika_arts-daytig0.png",
+      "errors": {},
+      "id": 3
+    }
+  ]
+}
